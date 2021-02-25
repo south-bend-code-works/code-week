@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" 
-      type="image/png" 
+    <link rel="icon"
+      type="image/png"
       href="https://img.icons8.com/wired/344/monitor.png">
 
 {% seo %}
@@ -24,7 +24,7 @@
       <header>
         <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
         <h1 style="color:white;">{{ site.title | default: site.github.repository_name }}</h1>
-        
+
         {% if site.logo %}
           <!-- <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
         {% endif %}
@@ -53,11 +53,11 @@
             </ul>
           </li> -->
           <li class="module">
-            <h3><a href="{{ site.baseurl }}/lessons/module1/lesson.html">Module 1 - HTML & CSS</a></h3>
+            <h3><a href="{{ site.baseurl }}/lessons/intro/code-week.html">Intro to Web Development</a></h3>
           </li>
-          <li class="module">
+          <!-- <li class="module">
             <h3><a href="{{ site.baseurl }}/lessons/module2/lesson.html">Module 2 - JavaScript</a></h3>
-          </li>
+          </li> -->
         </ul>
       </header>
       <section>
@@ -95,7 +95,7 @@
 
       nav.addEventListener("scroll", (e) => {
         var scroll = e.target.scrollTop
-        
+
         document.cookie = `navScroll=${scroll}`
       })
     </script>
