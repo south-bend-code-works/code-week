@@ -41,7 +41,7 @@ The first tag in a pair is the start tag, the second tag is the end tag.
 
 ## Start Coding
 
-- [ ] Open the [starter project](https://codepen.io/southbendcodeschool/pen/WNoXdNx)! (right click to open in a new tab)
+<input type="checkbox" class="checkbox"> Open the [starter project](https://codepen.io/southbendcodeschool/pen/WNoXdNx)! (right click to open in a new tab)
 
 Note that if you refresh the Codepen site, any changes you made will be lost.
 
@@ -54,30 +54,30 @@ Header tags look like this:
 `<h1>`
 `<h2>`
 
-- [ ] Find the `<h1>` tag that says `<h1>INSERT WEBSITE'S TITLE HERE</h1>` in CodePen.
+<input type="checkbox" class="checkbox"> Find the `<h1>` tag that says `<h1>INSERT WEBSITE'S TITLE HERE</h1>` in CodePen.
 
 
-- [ ] Replace ONLY the words "INSERT WEBSITE'S TITLE HERE" with the title of your webpage.
+<input type="checkbox" class="checkbox"> Replace ONLY the words "INSERT WEBSITE'S TITLE HERE" with the title of your webpage.
 For example:
 `<h1> Golden Retrievers </h1>`
 
-- [ ] Keep going to change the other headers (`<h1>` and `<h2>`) and paragraphs (`<p>`)in the website.
+<input type="checkbox" class="checkbox"> Keep going to change the other headers (`<h1>` and `<h2>`) and paragraphs (`<p>`)in the website.
 
-- [ ] The paragraph tags currently are filled with a text filler called "lorem ipsum". Replace this with your own text about the topic of your webpage!
+<input type="checkbox" class="checkbox"> The paragraph tags currently are filled with a text filler called "lorem ipsum". Replace this with your own text about the topic of your webpage!
 
-- [ ] Scroll through your webpage and double check that you successfully updated all of the text!
+<input type="checkbox" class="checkbox"> Scroll through your webpage and double check that you successfully updated all of the text!
 
 ### Images
 
 Let's swap out the cat images for some other images.
 
-- [ ] Find the first `img` tag and remove the link inside the `src=""`. You will replace this with a new link.
+<input type="checkbox" class="checkbox"> Find the first `img` tag and remove the link inside the `src=""`. You will replace this with a new link.
 
-- [ ] Go to Google images and search for images that relate to your webpage topic.
+<input type="checkbox" class="checkbox"> Go to Google images and search for images that relate to your webpage topic.
 
-- [ ] Once you find a picture on Google, right click on the image and select “Copy image address” from the drop down menu.
+<input type="checkbox" class="checkbox"> Once you find a picture on Google, right click on the image and select “Copy image address” from the drop down menu.
 
-- [ ] Return to your code and paste the copied image address into your code.
+<input type="checkbox" class="checkbox"> Return to your code and paste the copied image address into your code.
 
 ### CSS
 
@@ -89,7 +89,7 @@ We will be editing an external style sheet. Click on the CSS tab in Codepen to s
 
 CSS is separated by selectors, like `body`, `section`, `p`, etc...
 
-- [ ] Find the body selector, and try changing the background color of the page by adding the line: `background-color: red;`
+<input type="checkbox" class="checkbox"> Find the body selector, and try changing the background color of the page by adding the line: `background-color: red;`
 
 ### Text Colors
 
@@ -97,41 +97,41 @@ The property that changes text-color is color.
 
 For example, `color:white;` means that your text-color is white.
 
-- [ ] Try changing the text color of the body.
+<input type="checkbox" class="checkbox"> Try changing the text color of the body.
 
-- [ ] Adjust the colors for the other selectors in your CSS file.
+<input type="checkbox" class="checkbox"> Adjust the colors for the other selectors in your CSS file.
 
-- [ ] Visit [this site](colors.commutercreative.com) for access to more colors.
+<input type="checkbox" class="checkbox"> Visit [this site](colors.commutercreative.com) for access to more colors.
 
-- [ ] Change all of the different text colors on your page!
+<input type="checkbox" class="checkbox"> Change all of the different text colors on your page!
 
 ### Maps
 
-- [ ] Click back to the HTML tab on Codepen.
+<input type="checkbox" class="checkbox"> Click back to the HTML tab on Codepen.
 
-- [ ] Visit Google Maps and type into the search bar any place in the world where you would like to visit!
+<input type="checkbox" class="checkbox"> Visit Google Maps and type into the search bar any place in the world where you would like to visit!
 
-- [ ] Click on the drop down menu.
+<input type="checkbox" class="checkbox"> Click on the drop down menu.
 
-- [ ] Select “Share or embed map”.
+<input type="checkbox" class="checkbox"> Select “Share or embed map”.
 
-- [ ] Click Embed map.
+<input type="checkbox" class="checkbox"> Click Embed map.
 
-- [ ] Click "Copy HTML".
+<input type="checkbox" class="checkbox"> Click "Copy HTML".
 
-- [ ] Find the `<iframe>` tag for the Google Map in your HTML code.
+<input type="checkbox" class="checkbox"> Find the `<iframe>` tag for the Google Map in your HTML code.
 
-- [ ] Replace all of the iframe code on your website with the new code that you just copied from Google Maps.
+<input type="checkbox" class="checkbox"> Replace all of the iframe code on your website with the new code that you just copied from Google Maps.
 
-- [ ] Change the `<h2>` from iframe example to the name of the location you chose.
+<input type="checkbox" class="checkbox"> Change the `<h2>` from iframe example to the name of the location you chose.
 
 ### Links
 
-If you'd like to link to other pages, you can use the <a> tag in order to do so.
+If you'd like to link to other pages, you can use the `<a>` tag in order to do so.
 
-- [ ] Scroll down in the HTML until you see the section for links.
+<input type="checkbox" class="checkbox"> Scroll down in the HTML until you see the section for links.
 
-- [ ] Swap out the links by changing the text inside `href=""` to the link of your choice, and the text of the link by changing the text between the `<a>` and `</a>` tags.
+<input type="checkbox" class="checkbox"> Swap out the links by changing the text inside `href=""` to the link of your choice, and the text of the link by changing the text between the `<a>` and `</a>` tags.
 
 ## Extras
 
@@ -139,22 +139,22 @@ If you'd like to link to other pages, you can use the <a> tag in order to do so.
 
 Did you notice the cool color changing pattern on the links section? That's called a gradient!
 
-- [ ] Head over to the CSS file and scroll to find the `#links` selector. See the `background-image` property? See the word "gradient"?
+<input type="checkbox" class="checkbox"> Head over to the CSS file and scroll to find the `#links` selector. See the `background-image` property? See the word "gradient"?
 
-- [ ] This is what creates our gradient, with a degree for rotation, and three colors throughout the gradient. Try changing these colors!
+<input type="checkbox" class="checkbox"> This is what creates our gradient, with a degree for rotation, and three colors throughout the gradient. Try changing these colors!
 
 You can use words like "red", "blue", or "green" instead of the hex codes for colors, or you can find new hex codes.
 
-- [ ] To find the hex code for a color, try Google's [color picker](https://www.google.com/search?q=color+picker).
+<input type="checkbox" > To find the hex code for a color, try Google's [color picker](https://www.google.com/search?q=color+picker).
 
 You can also adjust the percentages on the gradient, and add more colors with more percentages.
 
-- [ ] Try adding a gradient to another section of your website!
+<input type="checkbox" class="checkbox"> Try adding a gradient to another section of your website!
 
 ### JS
 
 You may have noticed a third tab with some other code inside it. This is a programming language called JavaScript. JavaScript is used to make websites interactive.
 
-- [ ] Try filling out the form and submitting it. See the pop up alert?
+<input type="checkbox" class="checkbox"> Try filling out the form and submitting it. See the pop up alert?
 
-- [ ] Click over to the JS tab, and try changing the text of the alert by adjusting what's in the `var greeting`. Only change what's between the quotation marks.
+<input type="checkbox" class="checkbox"> Click over to the JS tab, and try changing the text of the alert by adjusting what's in the `var greeting`. Only change what's between the quotation marks.
