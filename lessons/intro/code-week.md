@@ -188,3 +188,5 @@ You may have noticed a third tab with some other code inside it. This is a progr
 <input type="checkbox" class="checkbox"> Click over to the JS tab, and try changing the text of the alert by adjusting what's in the `var greeting`. Only change what's between the quotation marks.
 
 <img style="height: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/img/greeting.png">
+
+<input type="checkbox" class="checkbox"> Can you add another field to the form? Copy one that already exists and change the id and placeholder. Then copy the corresponding line in JS and add the new variable to your alert message! 
