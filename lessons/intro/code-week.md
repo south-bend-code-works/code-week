@@ -56,6 +56,7 @@ Header tags look like this:
 
 <input type="checkbox" class="checkbox"> Find the `<h1>` tag that says `<h1>INSERT WEBSITE'S TITLE HERE</h1>` in CodePen.
 
+<img style="height: auto; max-width: 75%;" src="{{ site.baseurl }}/assets/img/header.png">
 
 <input type="checkbox" class="checkbox"> Replace ONLY the words "INSERT WEBSITE'S TITLE HERE" with the title of your webpage.
 For example:
@@ -73,9 +74,13 @@ Let's swap out the cat images for some other images.
 
 <input type="checkbox" class="checkbox"> Find the first `img` tag and remove the link inside the `src=""`. You will replace this with a new link.
 
+<img style="height: auto; max-width: 75%;" src="{{ site.baseurl }}/assets/img/replaceimage.png">
+
 <input type="checkbox" class="checkbox"> Go to Google images and search for images that relate to your webpage topic.
 
 <input type="checkbox" class="checkbox"> Once you find a picture on Google, right click on the image and select “Copy image address” from the drop down menu.
+
+<img style="height: auto; max-width: 75%;" src="{{ site.baseurl }}/assets/img/copyimageaddress.png">
 
 <input type="checkbox" class="checkbox"> Return to your code and paste the copied image address into your code.
 
@@ -91,6 +96,8 @@ CSS is separated by selectors, like `body`, `section`, `p`, etc...
 
 <input type="checkbox" class="checkbox"> Find the body selector, and try changing the background color of the page by adding the line: `background-color: red;`
 
+<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/bodycssbackground.png">
+
 ### Text Colors
 
 The property that changes text-color is color.
@@ -98,6 +105,8 @@ The property that changes text-color is color.
 For example, `color:white;` means that your text-color is white.
 
 <input type="checkbox" class="checkbox"> Try changing the text color of the body.
+
+<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/bodycss.png">
 
 <input type="checkbox" class="checkbox"> Adjust the colors for the other selectors in your CSS file.
 
@@ -113,17 +122,29 @@ For example, `color:white;` means that your text-color is white.
 
 <input type="checkbox" class="checkbox"> Click on the drop down menu.
 
+<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/mapsmenu.png">
+
 <input type="checkbox" class="checkbox"> Select “Share or embed map”.
+
+<img style="height: auto; max-width: 40%;" src="{{ site.baseurl }}/assets/img/shareorembed.png">
 
 <input type="checkbox" class="checkbox"> Click Embed map.
 
+<img style="height: auto; max-width: 30%;" src="{{ site.baseurl }}/assets/img/selectembed.png">
+
 <input type="checkbox" class="checkbox"> Click "Copy HTML".
 
+<img style="height: auto; max-width: 75%;" src="{{ site.baseurl }}/assets/img/embedmap.png">
+
 <input type="checkbox" class="checkbox"> Find the `<iframe>` tag for the Google Map in your HTML code.
+
+<img style="height: auto; max-width: 75%;" src="{{ site.baseurl }}/assets/img/iframe.png">
 
 <input type="checkbox" class="checkbox"> Replace all of the iframe code on your website with the new code that you just copied from Google Maps.
 
 <input type="checkbox" class="checkbox"> Change the `<h2>` from iframe example to the name of the location you chose.
+
+<img style="height: auto; max-width: 75%;" src="{{ site.baseurl }}/assets/img/iframereplace.png">
 
 ### Links
 
@@ -133,6 +154,9 @@ If you'd like to link to other pages, you can use the `<a>` tag in order to do s
 
 <input type="checkbox" class="checkbox"> Swap out the links by changing the text inside `href=""` to the link of your choice, and the text of the link by changing the text between the `<a>` and `</a>` tags.
 
+<img style="height: auto; max-width: 85%;" src="{{ site.baseurl }}/assets/img/linkhref.png">
+
+
 ## Extras
 
 ### Gradients
@@ -141,11 +165,15 @@ Did you notice the cool color changing pattern on the links section? That's call
 
 <input type="checkbox" class="checkbox"> Head over to the CSS file and scroll to find the `#links` selector. See the `background-image` property? See the word "gradient"?
 
+<img style="height: auto; max-width: 90%;" src="{{ site.baseurl }}/assets/img/linkscss.png">
+
 <input type="checkbox" class="checkbox"> This is what creates our gradient, with a degree for rotation, and three colors throughout the gradient. Try changing these colors!
 
 You can use words like "red", "blue", or "green" instead of the hex codes for colors, or you can find new hex codes.
 
-<input type="checkbox" > To find the hex code for a color, try Google's [color picker](https://www.google.com/search?q=color+picker).
+<img style="height: auto; max-width: 90%;" src="{{ site.baseurl }}/assets/img/linkscolors.png">
+
+<input type="checkbox" class="checkbox"> To find the hex code for a color, try Google's [color picker](https://www.google.com/search?q=color+picker).
 
 You can also adjust the percentages on the gradient, and add more colors with more percentages.
 
@@ -158,3 +186,5 @@ You may have noticed a third tab with some other code inside it. This is a progr
 <input type="checkbox" class="checkbox"> Try filling out the form and submitting it. See the pop up alert?
 
 <input type="checkbox" class="checkbox"> Click over to the JS tab, and try changing the text of the alert by adjusting what's in the `var greeting`. Only change what's between the quotation marks.
+
+<img style="height: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/img/greeting.png">
