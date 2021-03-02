@@ -52,7 +52,7 @@ After this section, students should have changed the links on their page, and po
 
 ### Gradients
 
-In this section, students will experiment with gradients. They will need help with the syntax of creating a gradient.
+In this section, students will experiment with gradients. They will need help with the syntax of creating a gradient. Extra help [here](https://css-tricks.com/css3-gradients/)
 
 ### JS
 
@@ -65,6 +65,9 @@ _HTML_ <br>
 
 _JS_ <br>
 <img style="height: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/img/newformjs.png">
+
+Students can also be challenged to add another type of field to their form (checkbox, or radio button) and implement the result in the alert message. Also see [this page](https://www.w3schools.com/html/html_forms.asp) for helpful info about HTML forms.
+
 
 ## Further Extensions
 
