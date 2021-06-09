@@ -152,7 +152,7 @@ For example, `color:white;` means that your text-color is white.
 
 <input type="checkbox" class="checkbox"> Adjust the colors for the other selectors in your CSS file.
 
-<input type="checkbox" class="checkbox"> Visit colors.commutercreative.com for access to more colors.
+<input type="checkbox" class="checkbox"> Visit [this site](colors.commutercreative.com) for access to more colors.
 
 <input type="checkbox" class="checkbox"> Change all of the different text colors on your page!
 
