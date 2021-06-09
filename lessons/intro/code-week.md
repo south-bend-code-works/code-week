@@ -41,7 +41,7 @@ The first tag in a pair is the start tag, the second tag is the end tag.
 
 ## Start Coding
 
-<input type="checkbox" class="checkbox"> Open the [starter project](https://codepen.io/southbendcodeschool/pen/WNoXdNx){:target="_blank"}! (right click to open in a new tab)
+<input type="checkbox" class="checkbox"> Open the [starter project](https://codepen.io/southbendcodeschool/pen/WNoXdNx){:target="_blank"}! 
 
 Note that if you refresh the Codepen site, any changes you made will be lost.
 
@@ -173,7 +173,7 @@ You can use words like "red", "blue", or "green" instead of the hex codes for co
 
 <img style="height: auto; max-width: 90%;" src="{{ site.baseurl }}/assets/img/linkscolors.png">
 
-<input type="checkbox" class="checkbox"> To find the hex code for a color, try Google's [color picker](https://www.google.com/search?q=color+picker).
+<input type="checkbox" class="checkbox"> To find the hex code for a color, try Google's [color picker](https://www.google.com/search?q=color+picker){:target="_blank"}.
 
 You can also adjust the percentages on the gradient, and add more colors with more percentages.
 
