@@ -84,36 +84,6 @@ Let's swap out the cat images for some other images.
 
 <input type="checkbox" class="checkbox"> Return to your code and paste the copied image address into your code.
 
-### CSS
-
-CSS stands for Cascading Stylesheet.
-
-With CSS you can change a website's background-images, types of fonts, text colors, and background-colors to style the page.
-
-We will be editing an external style sheet. Click on the CSS tab in Codepen to see the CSS code.
-
-CSS is separated by selectors, like `body`, `section`, `p`, etc...
-
-<input type="checkbox" class="checkbox"> Find the body selector, and try changing the background color of the page by adding the line: `background-color: red;`
-
-<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/bodycssbackground.png">
-
-### Text Colors
-
-The property that changes text-color is color.
-
-For example, `color:white;` means that your text-color is white.
-
-<input type="checkbox" class="checkbox"> Try changing the text color of the body.
-
-<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/bodycss.png">
-
-<input type="checkbox" class="checkbox"> Adjust the colors for the other selectors in your CSS file.
-
-<input type="checkbox" class="checkbox"> Visit [this site](colors.commutercreative.com) for access to more colors.
-
-<input type="checkbox" class="checkbox"> Change all of the different text colors on your page!
-
 ### Maps
 
 <input type="checkbox" class="checkbox"> Click back to the HTML tab on Codepen.
@@ -155,6 +125,36 @@ If you'd like to link to other pages, you can use the `<a>` tag in order to do s
 <input type="checkbox" class="checkbox"> Swap out the links by changing the text inside `href=""` to the link of your choice, and the text of the link by changing the text between the `<a>` and `</a>` tags.
 
 <img style="height: auto; max-width: 85%;" src="{{ site.baseurl }}/assets/img/linkhref.png">
+
+### CSS
+
+CSS stands for Cascading Stylesheet.
+
+With CSS you can change a website's background-images, types of fonts, text colors, and background-colors to style the page.
+
+We will be editing an external style sheet. Click on the CSS tab in Codepen to see the CSS code.
+
+CSS is separated by selectors, like `body`, `section`, `p`, etc...
+
+<input type="checkbox" class="checkbox"> Find the body selector, and try changing the background color of the page by adding the line: `background-color: red;`
+
+<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/bodycssbackground.png">
+
+### Text Colors
+
+The property that changes text-color is color.
+
+For example, `color:white;` means that your text-color is white.
+
+<input type="checkbox" class="checkbox"> Try changing the text color of the body.
+
+<img style="height: auto; max-width: 50%;" src="{{ site.baseurl }}/assets/img/bodycss.png">
+
+<input type="checkbox" class="checkbox"> Adjust the colors for the other selectors in your CSS file.
+
+<input type="checkbox" class="checkbox"> Visit colors.commutercreative.com for access to more colors.
+
+<input type="checkbox" class="checkbox"> Change all of the different text colors on your page!
 
 
 ## Extras
