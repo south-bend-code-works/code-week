@@ -41,7 +41,7 @@ The first tag in a pair is the start tag, the second tag is the end tag.
 
 ## Start Coding
 
-<input type="checkbox" class="checkbox"> Open the [starter project](https://codepen.io/southbendcodeschool/pen/WNoXdNx)! (right click to open in a new tab)
+<input type="checkbox" class="checkbox"> Open the [starter project](https://codepen.io/southbendcodeschool/pen/WNoXdNx){:target="_blank"}! (right click to open in a new tab)
 
 Note that if you refresh the Codepen site, any changes you made will be lost.
 
